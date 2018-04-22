@@ -80,6 +80,7 @@ celerybeat-schedule
 *.sage.py
 
 # dotenv
+.envrc
 .env
 
 # virtualenv
@@ -99,3 +100,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# other module
+wikiextractor/
+NLPToolBox/
+
